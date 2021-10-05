@@ -11,5 +11,6 @@ html{
 }
 
 .principal {
-  margin:auto;
+    display: block;
+    margin: auto;
 }
