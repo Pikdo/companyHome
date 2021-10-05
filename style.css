@@ -10,6 +10,6 @@ html{
     scroll-behavior: smooth; /*Para crear una smooth scrolling*/
 }
 
-principal {
+.principal {
   margin:auto;
 }
